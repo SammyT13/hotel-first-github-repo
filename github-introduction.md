@@ -26,6 +26,6 @@
 - command + z: undo
 
 ## Git Practice
-- [] Creating check-box
-- [] Creating other check-box
+- [ ] Creating check-box
+- [ ] Creating another check-box
 
