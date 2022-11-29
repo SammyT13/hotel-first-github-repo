@@ -31,4 +31,7 @@
 - [ ] Creating another check-box
 
 
+## GitHub Doc
+- Link to [GitHub Get Started Doc] (https://docs.github.com/en/get-started)
+- When creating Links wrap text in brackets [] and then wrap URL in parentheses ().
 
