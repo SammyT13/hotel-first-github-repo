@@ -25,7 +25,7 @@
 - command + v: paste
 - command + z: undo
 
-## Git Practice
-- [ ] Creating check-box
+## Git Practice Check-boxes
+- [ ] Creating check-box: remember to add a space between brackets
 - [ ] Creating another check-box
 
