@@ -13,6 +13,6 @@
 
 ## GitHub Commands
 - git status: user can see what we're doing
-- git add <file-name>
+- git add <file-name> : the 'file-name' is the name of file user is updating
 - git commit -m "should be a meaningful message"
 - git push origin main
