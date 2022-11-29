@@ -25,3 +25,7 @@
 - command + v: paste
 - command + z: undo
 
+## Git Practice
+- [] Creating check-box
+- [] Creating other check-box
+
