@@ -18,14 +18,17 @@
 - git push origin main
 
 ## Keyboard Shortcuts
-- command + s: saves file
-- command + r: refreshes
-- command + x: cut
-- command + c: copy
-- command + v: paste
-- command + z: undo
+- `command + s`: saves file
+- `command + r`: refreshes
+- `command + x`: cut
+- `command + c`: copy
+- `command + v`: paste
+- `command + z`: undo
+- added back ticks to shortcuts so they stand out (easier to copy and paste)
 
 ## Git Practice Check-boxes
 - [ ] Creating check-box: remember to add a space between brackets
 - [ ] Creating another check-box
+
+
 
